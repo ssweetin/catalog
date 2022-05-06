@@ -10,8 +10,7 @@ image:
 eula_url: https://storagemadeeasy.com/terms/
 eula_label: Terms of Use
 categories:
-- network
-- target_vcenter
+- storage
 logo: https://storagemadeeasy.com/templates/sme/nd/press_kit/logo_blue_500.png
 description: Storage Made Easy - Enterprise File Fabric
 readme: |
